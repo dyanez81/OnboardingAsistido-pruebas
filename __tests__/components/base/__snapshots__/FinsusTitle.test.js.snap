@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing FinsusTitle component render component 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "white",
+        "fontFamily": "Montserrat-Regular",
+        "fontSize": 26,
+        "textAlign": "center",
+      },
+      Object {},
+    ]
+  }
+>
+  Mi titulo
+</Text>
+`;
+
+exports[`Testing FinsusTitle component render component 2`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "white",
+        "fontFamily": "Montserrat-Regular",
+        "fontSize": 26,
+        "textAlign": "center",
+      },
+      Object {},
+    ]
+  }
+>
+  Otro titulo
+</Text>
+`;

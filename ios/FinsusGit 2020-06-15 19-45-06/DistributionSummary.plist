@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FinsusGit.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>8AB4305D82B2388DBC05178C02E49C0996BA2AC1</string>
+				<key>dateExpires</key>
+				<string>6/15/21</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>KCYAV47FA6.com.financierasustentable.finsus</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>KCYAV47FA6</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>KCYAV47FA6.com.financierasustentable.finsus</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Finsus.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>828c01d6-2c52-47ca-aa5c-522c16b68187</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.financierasustentable.finsus</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>KCYAV47FA6</string>
+				<key>name</key>
+				<string>Economía Móvil e Inteligente, S.A. de C.V.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "jsx": "react-native",
+    "paths": {
+      "components/*": ["components/*"],
+      "assets/*": ["assets/*"],
+      "layouts/*": ["layouts/*"],
+      "models/*": ["models/*"],
+      "repository/*": ["repository/*"],
+      "router/*": ["router/*"],
+      "screen/*": ["screen/*"],
+      "store/*": ["store/*"],
+      "utils/*": ["utils/*"]
+    }
+  }
+}
